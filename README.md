@@ -1,6 +1,6 @@
 # 개요
 
-이 것은 Siraj Raval의 유튜브 [영상](https://youtu.be/7vunJlqLZok)을 위한 코드입니다. 
+이 것은 Siraj Raval의 [유튜브 영상](https://youtu.be/7vunJlqLZok)을 위한 코드입니다. 
 
 StockIT은 머신러닝 웹 게임으로, 사용자들이 AI와 주식매매로 경쟁할 수 있습니다. 무작위로 종목과 과거의 날짜가 선택됩니다. 주가는 그 날짜로부터 365일간 지속됩니다. 주가가 움직이는 동안, 사용자는 AI와 주식매매로 경쟁하게됩니다.
 
