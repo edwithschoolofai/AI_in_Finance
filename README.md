@@ -43,6 +43,10 @@ http://www.StockIT.tech
 * Pandas
 * Scikit Learn
 
+## IPython 
+[ 코드 돌려보기 (Colab) ](https://colab.research.google.com/github/edwithschoolofai/AI_in_Finance/blob/master/Market_Prediction.ipynb
+) 
+
 ## 저자
 
 Austin Tackaberry
